@@ -26,6 +26,8 @@ Este é um organizador de arquivos desenvolvido em Python com PySide6. Ele permi
    python organizador.py
    ```
 5. Selecione o diretório desejado e clique no botão "Organizar" para iniciar a organização.
+    ![image](https://github.com/user-attachments/assets/538b8635-be71-47bb-960a-6b16322a079c)
+
 
 
 ## Pré-requisitos
